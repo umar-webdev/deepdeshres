@@ -1,0 +1,20 @@
+.img-fluid{
+    margin-top: 2rem;
+    display: inline-block;
+}
+.card-body{
+    width: 66rem;
+}
+html,body{
+    width: 100vw;
+    overflow-x: hidden;
+}
+
+* {
+    font-family: 'Tiro Devanagari Hindi', serif;
+}
+
+.img-editable {
+    width: 10rem;
+    border-radius: 20px;
+}
